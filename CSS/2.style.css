@@ -2,3 +2,22 @@ h1{
 		color : rgb(156, 156, 253);
 		background-color : yellow;
 	 }
+	 p{
+		color: pink;
+	 }
+	 button{
+color:red;
+background-color:cornsilk;
+	 }
+	 h2{
+		color : orange;
+		
+	 }
+	 p1{
+     color: white;
+	 background-color:black;
+	 }
+	 button1{
+		color:white;
+		background-color:blue;
+	 }
