@@ -1,0 +1,13 @@
+*{
+font-family:"Courier New";
+}
+h1,h3{
+	color:#b92b27;
+}
+#login{
+	background-color:white;
+	color:rgb(24, 24, 67);
+}
+.a{
+ background-color:pink;
+}
