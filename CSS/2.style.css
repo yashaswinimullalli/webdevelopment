@@ -1,10 +1,14 @@
 h1{
-		color : rgb(156, 156, 253);
-		background-color : rgb(102, 13, 19);
+		color :#ffa511;
+	
 		text-align:center;
-		font-weight:bold;
-		text-decoration : dotted underline;
-		font-family :impact;
+		font-weight:900;
+		font-size:55px;
+		letter-spacing:2px;
+		line-height :normal;
+		text-decoration : teal double underline;
+		font-family :League spartan;
+		 text-transform: uppercase;
 	 }
 	 p{
 		color: pink;
